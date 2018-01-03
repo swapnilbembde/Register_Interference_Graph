@@ -1,0 +1,10 @@
+b=1
+c=2
+f=3
+a = b + c
+d = -a
+e = d + f
+b = d + e
+e = e - 1
+b = f + e
+return b

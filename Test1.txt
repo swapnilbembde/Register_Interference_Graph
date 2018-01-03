@@ -1,0 +1,8 @@
+a = 1
+b = 2
+c = a + b
+d = c + a
+d = d + 1
+b = d*2
+d = c - d
+return d

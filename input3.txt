@@ -1,0 +1,13 @@
+f = 0
+b = 1
+c = 1
+while
+a = b + c 
+d = - a 
+e = d + f 
+f = 2 * e 
+b = d + e 
+e = e - 1
+b = f + c
+end while
+return b
